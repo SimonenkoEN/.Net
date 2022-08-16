@@ -1,4 +1,3 @@
-﻿int numberA = 30;
-int numberB = 10;
-int div = numberA / numberB;
-Console.WriteLine(div);
+﻿double numberA = 32;
+double numberB = 10;
+Console.WriteLine(numberA / numberB);
