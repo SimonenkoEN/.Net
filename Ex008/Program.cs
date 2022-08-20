@@ -12,7 +12,7 @@ int c1 = 15;
 int a2 = 4;
 int b2 = 9;
 int c2 = 0;
-int a3 = 70;
+int a3 = 7;
 int b3 = 22;
 int c3 = 5;
 
